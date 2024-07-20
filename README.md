@@ -1,0 +1,1 @@
+# TradingView-Ticker-Tape-Widget
